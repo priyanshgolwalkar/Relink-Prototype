@@ -20,10 +20,10 @@ import { Link } from 'react-router-dom';
 
 // Mock data for the alumni report
 const mockAlumniData = [
-  { id: 1, name: 'Alex Kim', major: 'Computer Science', graduationYear: 2020, email: 'alex.kim@example.com' },
-  { id: 2, name: 'Sarah Chen', major: 'Mechanical Engineering', graduationYear: 2018, email: 'sarah.chen@example.com' },
-  { id: 3, name: 'Michael Rodriguez', major: 'Product Management', graduationYear: 2017, email: 'michael.r@example.com' },
-  { id: 4, name: 'Jane Doe', major: 'Business Administration', graduationYear: 2021, email: 'jane.doe@example.com' },
+  { id: 1, name: 'Sara Mishra', major: 'Computer Science', graduationYear: 2020, email: 'saramishra@example.com' },
+  { id: 2, name: 'kailash Rathore', major: 'Mechanical Engineering', graduationYear: 2018, email: 'kailashRathore@example.com' },
+  { id: 3, name: 'Manish Thakur', major: 'Product Management', graduationYear: 2017, email: 'manishthakur@example.com' },
+  { id: 4, name: 'Raju Gupta', major: 'Business Administration', graduationYear: 2021, email: 'RajuGupta@example.com' },
 ];
 
 const AdminDashboard = () => {
